@@ -1,4 +1,4 @@
-#matricula y nombre 1
+#A00827198 Rodrigo Henriquez
 #matricula y nombre 2
 #proposito del programa
 
