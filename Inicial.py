@@ -1,12 +1,13 @@
 #A00827198 Rodrigo Henriquez
 #A00827838 Luis Angel Mendoza Castillón
 #proposito del programa
-#CAlcular area y perimetro e un rectangulo
-#funcion1  calcular área del rectángulo
+#Calcular area y perimetro de un rectangulo
 
+#funcion1  calcular área del rectángulo
+def calcularArea(l1, l2):
+    return l1 * l2
 
 #funcion2  calcular perímetro del rectángulo
-
 
 #instrucciones de accion
 #pedir datos
