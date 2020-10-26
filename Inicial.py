@@ -1,7 +1,7 @@
 #A00827198 Rodrigo Henriquez
 #A00827838 Luis Angel Mendoza Castillón
 #proposito del programa
-
+#CAlcular area y perimetro e un rectangulo
 #funcion1  calcular área del rectángulo
 
 
