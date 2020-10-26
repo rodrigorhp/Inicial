@@ -1,5 +1,5 @@
 #A00827198 Rodrigo Henriquez
-#matricula y nombre 2
+#A00827838 Luis Angel Mendoza Castillón
 #proposito del programa
 
 #funcion1  calcular área del rectángulo
